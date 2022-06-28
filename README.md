@@ -81,9 +81,9 @@ Following are the recommended online deployment services which are tested to wor
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/NBfBbp?referralCode=km83_N)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fchirag-droid%2Fanimeflix)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fwibu-Otakku%2Fanimeflix)
 
-[![Deploy with netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/chirag-droid/animeflix)
+[![Deploy with netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/wibu-Otakku/animeflix)
 
 ## Local Deployment
 
